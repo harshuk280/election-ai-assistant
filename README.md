@@ -1,3 +1,7 @@
+![ElectionGPT Banner](banner.png)
+
+# 🗳️ ElectionGPT  
+### *Learning elections the simple, human way*
 🗳️ ElectionGPT
 
 Not just explaining elections — making them easy to understand
